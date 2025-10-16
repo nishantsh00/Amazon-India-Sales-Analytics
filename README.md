@@ -41,6 +41,7 @@ Tables: Drill-down into segmentation and operational details.
 Slicers: Interactive filtering by date, category, region, customer type, and more.
 
 ## Files
+Data :https://drive.google.com/drive/folders/1ZHB4x8nZHuXmyDlwujWtbOaxiMHWf-3-?usp=drive_link
 Amazon_India_Analytics.pbix – Power BI dashboard file.
 AMAZON_PROJECT.ipynb – Python notebook for ETL and preprocessing.
 README.md – This documentation.
